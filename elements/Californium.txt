@@ -1,1 +1,0 @@
-Californium,98,*,251,Californium,Cf,900,0,15.1,,1950,102,,6.28
